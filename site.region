@@ -98,8 +98,8 @@
                 </h1>
               </div>
               {.end}
-
-              <a id="info" class="icon-info"><span class="icon-text">Info</span></a>
+              <div id="reserva">
+              <a class="icon-reserva"><span class="icon-text">Reserva</span></a>
               <div id="email">
                 <a class="icon-email"><span class="icon-text">Email</span></a>
               </div>
